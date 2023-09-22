@@ -515,7 +515,7 @@ hr {
 .page {
 	position: relative;
 	overflow: hidden;
-	/* min-height: 100vh; */
+	min-height: 100vh;
 	opacity: 1 !important;
 }
 
@@ -14157,7 +14157,8 @@ html.boxed .rd-navbar--is-clone {
 		padding-right: 110px;
 	}
 	.swiper-slider_style-3 .swiper-pagination {
-		display: none;
+		/* display: none; */
+		display: block !important;
 		left: calc(50% - 480px - 5px);
 	}
 }
