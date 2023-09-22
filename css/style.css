@@ -13711,7 +13711,7 @@ html.boxed .rd-navbar--is-clone {
 	z-index: 1;
 	transform: scale(0.5);
 	opacity: 0;
-	border: 2px solid #f39b00;
+	border: 2px solid #aa182c;
 	border-radius: inherit;
 	transition: .22s ease-in;
 }
