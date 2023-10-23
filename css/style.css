@@ -18434,6 +18434,6 @@ yx-axis
 
 @media screen and (max-width: 768px) {
 	.slide_main_3 {
-		background-position: center !important;
+		background-position-x: center !important;
 	}
 }
