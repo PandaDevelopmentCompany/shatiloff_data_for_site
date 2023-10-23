@@ -18428,3 +18428,11 @@ yx-axis
 .mCS-dark.mCSB_scrollTools .mCSB_buttonRight {
 	background-position: -80px -56px;
 }
+
+
+
+@media screen and (max-width: 768px) {
+	.slide_main_3 {
+		background-position: center !important;
+	}
+}
